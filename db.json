@@ -35,40 +35,5 @@
         "edad": 2,
         "tipo": "Ave"
     },
-    {
-        "nombre": "Nemo",
-        "raza": "Clownfish",
-        "sexo": "Macho",
-        "edad": 1,
-        "tipo": "Pez"
-    },
-    {
-        "nombre": "Lola",
-        "raza": "Bulldog Francés",
-        "sexo": "Hembra",
-        "edad": 2,
-        "tipo": "Mamífero"
-    },
-    {
-        "nombre": "Polly",
-        "raza": "Cacatúa",
-        "sexo": "Hembra",
-        "edad": 4,
-        "tipo": "Ave"
-    },
-    {
-        "nombre": "Goldie",
-        "raza": "Goldfish",
-        "sexo": "Macho",
-        "edad": 3,
-        "tipo": "Pez"
-    },
-    {
-        "nombre": "Simba",
-        "raza": "Maine Coon",
-        "sexo": "Macho",
-        "edad": 5,
-        "tipo": "Mamífero"
-    }
 ]
 }
