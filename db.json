@@ -1,4 +1,5 @@
-[
+{
+"animales":[
     {
         "nombre": "Max",
         "raza": "Labrador",
@@ -70,3 +71,4 @@
         "tipo": "Mamífero"
     }
 ]
+}
