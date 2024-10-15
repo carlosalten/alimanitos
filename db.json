@@ -1,0 +1,72 @@
+[
+    {
+        "nombre": "Max",
+        "raza": "Labrador",
+        "sexo": "Macho",
+        "edad": 5,
+        "tipo": "Mamífero"
+    },
+    {
+        "nombre": "Bella",
+        "raza": "Persa",
+        "sexo": "Hembra",
+        "edad": 3,
+        "tipo": "Mamífero"
+    },
+    {
+        "nombre": "Tweety",
+        "raza": "Canario",
+        "sexo": "Hembra",
+        "edad": 1,
+        "tipo": "Ave"
+    },
+    {
+        "nombre": "Rex",
+        "raza": "Pastor Alemán",
+        "sexo": "Macho",
+        "edad": 4,
+        "tipo": "Mamífero"
+    },
+    {
+        "nombre": "Chirpy",
+        "raza": "Periquito",
+        "sexo": "Macho",
+        "edad": 2,
+        "tipo": "Ave"
+    },
+    {
+        "nombre": "Nemo",
+        "raza": "Clownfish",
+        "sexo": "Macho",
+        "edad": 1,
+        "tipo": "Pez"
+    },
+    {
+        "nombre": "Lola",
+        "raza": "Bulldog Francés",
+        "sexo": "Hembra",
+        "edad": 2,
+        "tipo": "Mamífero"
+    },
+    {
+        "nombre": "Polly",
+        "raza": "Cacatúa",
+        "sexo": "Hembra",
+        "edad": 4,
+        "tipo": "Ave"
+    },
+    {
+        "nombre": "Goldie",
+        "raza": "Goldfish",
+        "sexo": "Macho",
+        "edad": 3,
+        "tipo": "Pez"
+    },
+    {
+        "nombre": "Simba",
+        "raza": "Maine Coon",
+        "sexo": "Macho",
+        "edad": 5,
+        "tipo": "Mamífero"
+    }
+]
