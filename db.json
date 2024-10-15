@@ -18,12 +18,7 @@
             "sexo": "Hembra",
             "edad": 1
         },
-        {
-            "nombre": "Rex",
-            "raza": "Pastor Alemán",
-            "sexo": "Macho",
-            "edad": 4
-        },
+     
         {
             "nombre": "Chirpy",
             "raza": "Periquito",
