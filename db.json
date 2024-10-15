@@ -1,24 +1,28 @@
 {
     "animales": [
         {
+            "id": 1,
             "nombre": "Max",
             "raza": "Labrador",
             "sexo": "Macho",
             "edad": 5
         },
         {
+            "id": 2,
             "nombre": "Bella",
             "raza": "Persa",
             "sexo": "Hembra",
             "edad": 3
         },
         {
+            "id": 3,
             "nombre": "Tweety",
             "raza": "Canario",
             "sexo": "Hembra",
             "edad": 1
         },     
         {
+            "id": 4,
             "nombre": "Chirpy",
             "raza": "Periquito",
             "sexo": "Macho",
