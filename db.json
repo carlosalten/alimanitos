@@ -30,36 +30,8 @@
             "sexo": "Macho",
             "edad": 2
         },
-        {
-            "nombre": "Nemo",
-            "raza": "Clownfish",
-            "sexo": "Macho",
-            "edad": 1
-        },
-        {
-            "nombre": "Lola",
-            "raza": "Bulldog Francés",
-            "sexo": "Hembra",
-            "edad": 2
-        },
-        {
-            "nombre": "Polly",
-            "raza": "Cacatúa",
-            "sexo": "Hembra",
-            "edad": 4
-        },
-        {
-            "nombre": "Goldie",
-            "raza": "Goldfish",
-            "sexo": "Macho",
-            "edad": 3
-        },
-        {
-            "nombre": "Simba",
-            "raza": "Maine Coon",
-            "sexo": "Macho",
-            "edad": 5
-        }
+    
+      
     ]
 }
 
