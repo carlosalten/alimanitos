@@ -17,16 +17,13 @@
             "raza": "Canario",
             "sexo": "Hembra",
             "edad": 1
-        },
-     
+        },     
         {
             "nombre": "Chirpy",
             "raza": "Periquito",
             "sexo": "Macho",
             "edad": 2
-        },
-    
-      
+        }   
     ]
 }
 
